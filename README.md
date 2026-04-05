@@ -6,8 +6,7 @@ Given the "Airline Passengers" dataset (1949–1960), write a Python program to:
 - Calculate a 12-month Rolling Mean to smooth out noise and visualize the growth trend.
 - Generate a Seasonal Boxplot to identify recurring monthly fluctuations (Seasonality).
 
-2. Write a program to create pair plots and regression plots using Seaborn, to study
-variate relationships and trends.
+2. Write a program to create pair plots and regression plots using Seaborn, to study variate relationships and trends.
 
 3. Write a program to create interactive visualizations using Plotly, including interactive line, bar, and scatter plots with hover information.
 
